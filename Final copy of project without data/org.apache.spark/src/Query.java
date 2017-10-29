@@ -35,12 +35,6 @@ import org.apache.spark.sql.types.util.*;
 @WebServlet("/Query")
 public class Query extends HttpServlet {
 	private static final long serialVersionUID = 1L;
-	
-	//private static String pathToFile = "https://github.com/AshokYaganti/ASE-Project/langtest.txt";
-	//private static String pathToFile = "C:/Users/ashok/PBPhase2/com.umkc.ashok/TwitterData_Latest.txt";
-    
-    
-	
 	/**
      * Default constructor. 
      */
