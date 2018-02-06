@@ -15,6 +15,7 @@ Bluemix for hosting Application
 
 Analytical Queries:
 Query 1: Tweet Count based on President Candidates
+
 Query 2: Top 8 Most Frequently Tweeting Users
 Query 3: Top 8 Users with highest followers
 Query 4: Top Locations with most Tweets
